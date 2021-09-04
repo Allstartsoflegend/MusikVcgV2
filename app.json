@@ -1,9 +1,8 @@
 {
-  "name": "MusikVcg",
-  "logo": "https://telegra.ph/file/40240a68a57a077930194.jpg",
+  "name": "Crystal Music",
   "description": "Open-Source bot to play songs in your Telegram's Group Voice Chat. Powered by PyTgCalls.",
   "keywords": ["music", "voicechat", "telegram"],
-  "repository": "https://github.com/CollinFowel/MusikVcgV2",
+  "repository": "https://github.com/Allstartsoflegend/CrystalMusic",
   "stack": "heroku-20",
   "buildpacks": [
    {
