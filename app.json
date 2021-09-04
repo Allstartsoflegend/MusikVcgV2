@@ -2,7 +2,7 @@
   "name": "Crystal Music",
   "description": "Open-Source bot to play songs in your Telegram's Group Voice Chat. Powered by PyTgCalls.",
   "keywords": ["music", "voicechat", "telegram"],
-  "repository": "https://github.com/Allstartsoflegend/CrystalMusic",
+  "repository": "https://github.com/Allstartsoflegend/MusikVcg2",
   "stack": "heroku-20",
   "buildpacks": [
    {
@@ -14,7 +14,7 @@
   ],        
   "env": {
     "SESSION_NAME": {
-      "description": "Silahkan ambil Pyrogram session string di https://replit.com/@CollinFowel/StringSessionPyrogram#main.py",
+      "description": "Silahkan ambil sendiri!",
       "required": true
     },
     "BOT_TOKEN": {
