@@ -29,9 +29,7 @@
 
 • Silahkan pilih mau deploy via apa, kalo ga ngerti bisa tanya [@xxstanme](https://t.me/xxstanme) di telegram
 
-[![Deploy+on+Heroku](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/CollinFowel/MusikVcgV2/tree/master)
-
-[![Deploy+on+Railway](https://railway.app/button.svg)](https://railway.app/new/template?template=https://github.com/CollinFowel/MusikVcgV2&envs=SESSION_NAME,BOT_TOKEN,BOT_USERNAME,BOT_NAME,PROJECT_NAME,ARQ_API_KEY,ASSISTANT_NAME,BG_IMAGE,API_ID,API_HASH,SUDO_USERS,DURATION_LIMIT)
+[![Deploy+on+Heroku](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Allstartsoflegend/CrystalMusic/tree/master)
 
 • Klik tombol dibawah untuk mengambil `Pyrogram String Session` :
 
