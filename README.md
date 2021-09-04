@@ -29,7 +29,7 @@
 
 • Silahkan pilih mau deploy via apa, kalo ga ngerti bisa tanya [@xxstanme](https://t.me/xxstanme) di telegram
 
-[![Deploy+on+Heroku](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Allstartsoflegend/MusicVcg2/tree/master)
+[![Deploy+on+Heroku](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Allstartsoflegend/MusikVcg2/tree/master)
 
 • Klik tombol dibawah untuk mengambil `Pyrogram String Session` :
 
