@@ -38,15 +38,15 @@
 ### ⚔ Self-hosting (For Devs) 
 ```sh
 # Install Git First (apt-instll git)
-$ git clone https://github.com/CollinFowel/MusikVcgV2
-$ cd MusikVcg
+$ git clone https://github.com/Allstartsoflegend/MusikVcgV2
+$ cd MusikVcgV2
 # Upgrade sources
 # Install All Requirements 
 $ pip3 install -r requirements.txt
 # Rename example.env to local.env and fill
 $ npm i -g npm
 # Start Bot 
-$ python3 -m MusikVcg
+$ python3 -m MusikVcgV2
 ```
 
 [Klik Disini untuk melihat tutorial hosting MusikVcg di VPS](https://youtu.be/MdavNbazT7Q)
